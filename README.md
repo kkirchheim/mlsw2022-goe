@@ -23,11 +23,11 @@ compared to models exposed to uniform noise.
 
 <div align="center">
 
-![mchad](img/cover-samples.png)
+![samples](img/cover-samples.png)
 
 
 
-<img src="img/imagenet-trans-auroc-vs-variance.png" alt="drawing" width="200"/>
+![results](img/results-base.png)
 
 </div>
 
