@@ -1,0 +1,9 @@
+cifar10
+data
+imagenet
+results
+*.npz
+*.pt
+.ipynb_checkpoints/
+
+
