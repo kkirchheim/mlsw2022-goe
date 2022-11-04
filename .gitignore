@@ -4,6 +4,7 @@ imagenet
 results
 *.npz
 *.pt
-.ipynb_checkpoints/
+/**/.ipynb_checkpoints/
+.idea
 
 
