@@ -3,12 +3,17 @@
 
 # On Outlier Exposure with Generative Models 
 
+<a href="https://openreview.net/forum?id=SU7OAfhc8OM">
+    <img alt="Template" src="https://img.shields.io/badge/Paper-OpenReview-7d1803">
+</a>
+
 <a href="https://pytorch.org/get-started/locally/">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white">
 </a>
-<a href="https://gitlab.com/kkirchheim/pytorch-ood">
-    <img alt="Template" src="https://img.shields.io/badge/-PyTorch--OOD-017F2F?style=flat&logo=gitlab&labelColor=gray">
+<a href="[https://gitlab.com/kkirchheim/pytorch-ood](https://github.com/kkirchheim/pytorch-ood)">
+    <img alt="Template" src="https://img.shields.io/badge/-PyTorch--OOD-017F2F?style=flat&logo=github&labelColor=gray">
 </a>
+
 
 </div>
 
