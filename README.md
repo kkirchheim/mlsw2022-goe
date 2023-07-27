@@ -36,17 +36,23 @@ Such samples can be used as synthetic outliers for outlier exposure, and we show
 </div>
 
 
-
-
-
-
-
 ## Dependencies
 
 * pytorch 
 * torchvision
 * torchtext
-* pytorch-ood 
+* pytorch-ood
+
+## Citation 
+
+```
+@inproceedings{kirchheim2022outlier,
+  title={On Outlier Exposure with Generative Models},
+  author={Kirchheim, Konstantin and Ortmeier, Frank},
+  booktitle={NeurIPS ML Safety Workshop},
+  year={2022}
+}
+```
 
 
 
